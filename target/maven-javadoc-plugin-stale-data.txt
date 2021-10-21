@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'D:/Miguelito/Trabajos/UNAM/Facultad de Ingeniería/2022-1/Java/Programación Orientada a Objetos/Prácticas/POOP6ide/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Miguelito/Trabajos/UNAM/Facultad de Ingeniería/2022-1/Java/Programación Orientada a Objetos/Prácticas/POOP6ide/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP6ide 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'D:/Miguelito/Trabajos/UNAM/Facultad de Ingeniería/2022-1/Java/Programación Orientada a Objetos/Prácticas/POOP6ide/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP6ide 1.0-SNAPSHOT API'
+com.mycompany.poop6ide
+'D:/Miguelito/Trabajos/UNAM/Facultad de Ingeniería/2022-1/Java/Programación Orientada a Objetos/Prácticas/POOP6ide/src/main/java/com/mycompany/poop6ide/Main.java'
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\src\main\java = 1634820865895
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\allclasses-index.html = 1634821859636
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\allclasses.html = 1634821859669
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\allpackages-index.html = 1634821859647
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\constant-values.html = 1634821859461
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\deprecated-list.html = 1634821859665
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\element-list = 1634821859380
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\help-doc.html = 1634821859716
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\index-all.html = 1634821859614
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\index.html = 1634821859675
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\member-search-index.js = 1634821859606
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\member-search-index.zip = 1634821859610
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\overview-tree.html = 1634821859519
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\package-search-index.js = 1634821859556
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\package-search-index.zip = 1634821859599
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\script.js = 1634821859732
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\search.js = 1634821859736
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\stylesheet.css = 1634821859723
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\type-search-index.js = 1634821859601
+D:\Miguelito\Trabajos\UNAM\Facultad de Ingeniería\2022-1\Java\Programación Orientada a Objetos\Prácticas\POOP6ide\target\site\apidocs\type-search-index.zip = 1634821859604
